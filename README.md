@@ -1,6 +1,8 @@
 # Connected: A Social Network Analysis Tutorial with NetworkX
 Repository for code and notebooks for the NetworkX Tutorial
 
+**THIS EXAMPLE WAS ORIGINALLY CREATED BY [RTIDATASCIENCE](https://github.com/rtidatascience)**
+
 ## Requirements
 If you've obtained python through Anaconda, you should be set. In essence, we need Python 3 and the conda package manager.
 
